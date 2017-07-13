@@ -1,0 +1,13 @@
+# TEAM
+
+  Made Everything: Dim
+  Contact: dim@dim.codes
+  Twitter: @xDimGG
+  From: Brooklyn, NY
+
+# SITE
+
+  Last Updated: 7/10/17
+  Language: English
+  Doctype: HTML5
+  IDE: Atom
